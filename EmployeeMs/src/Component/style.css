@@ -1,0 +1,26 @@
+.loginPage{
+    background :  url('C:\Users\kaust\OneDrive\Desktop\Learning_Project\EmployeeMs\public\images\binary-7026007_1920.jpg');
+    /* background : linear-gradient(rgba(11,11,11,0.5), rgba(10,10,10,0.5),url("C:\Users\kaust\OneDrive\Desktop\Learning_Project\EmployeeMs\public\images\binary-7026007_1920.jpg"));
+    background-position: center; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+.loginForm {
+    background-color: rgba(1, 32, 93, 0.6);
+    color : white;
+}
+.employee_image{
+    width : 40px;
+    height : 40px;
+    border-radius : 50%; 
+}
+
+.emp_det_image {
+    width: 400x; /* Smaller size */
+    height: 400px; /* Ensures square shape */
+    border-radius: 50%;
+    object-fit: cover; /* Prevents distortion */
+    border: 2px solid black; /* Black border */
+  }
+  
